@@ -1,9 +1,9 @@
 fastapi==0.110.0
 uvicorn[standard]==0.27.1
-python-multipart==0.0.9
-langchain==0.3.14
-langchain-community==0.3.14
-langchain-core==0.3.29
+python-multipart==0.0.18
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.63
 unstructured[all-docs]==0.12.5
 sentence-transformers==3.0.0
 llama-index-core==0.12.10
@@ -14,7 +14,7 @@ llama-index-vector-stores-milvus==0.5.0
 llama-index-vector-stores-postgres==0.4.1
 pymilvus==2.5.3
 dataclass-wizard==0.22.3
-opencv-python==4.8.0.74
+opencv-python==4.8.1.78
 minio==7.2.5
 asyncpg==0.29.0
 psycopg2-binary==2.9.9
