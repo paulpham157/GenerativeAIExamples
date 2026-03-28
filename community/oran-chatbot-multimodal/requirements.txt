@@ -10,7 +10,7 @@ gspread==6.0.0
 jupyterlab==4.0.8
 langchain==0.2.5
 langchain-community==0.2.5
-langchain-core==0.2.7
+langchain-core==1.2.22
 langchain-nvidia-ai-endpoints==0.1.6
 langchain-text-splitters==0.2.1
 llama-hub==0.0.43
@@ -24,7 +24,7 @@ pymupdf==1.23.15
 python-multipart==0.0.6
 python_pptx==0.6.23
 qdrant_client==1.7.1
-Requests==2.31.0
+Requests==2.33.0
 sentence-transformers==2.2.2
 streamlit==1.30.0
 streamlit_analytics==0.4.1
