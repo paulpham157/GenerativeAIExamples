@@ -3,9 +3,9 @@ colorlog==6.9.0
 gitlab==1.0.2
 gpudb==7.2.2.7
 ipython==8.12.3
-langchain_core==0.3.56
+langchain_core==1.2.22
 langchain_nvidia_ai_endpoints==0.3.9
-langgraph==0.3.34
+langgraph==1.0.10rc1
 matplotlib==3.10.1
 numpy==1.23
 pandas==2.2.3
